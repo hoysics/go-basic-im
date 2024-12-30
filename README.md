@@ -2,7 +2,7 @@
 
 # Basic IM
 
-基于[Plato](https://github.com/hardcore-os/plato)，结合个人理解重写，用于学习和试验IM相关的各种技术
+基于[Plato](https://github.com/hardcore-os/plato)，结合个人理解改写，用于学习和试验IM相关的各种技术
 
 ## 目录
 
@@ -12,7 +12,6 @@
 - [文件目录说明](#文件目录说明)
 - [部署](#部署)
 - [使用到的框架](#使用到的框架)
-- [作者](#作者)
 
 ### 开发前的配置要求
 
@@ -77,10 +76,6 @@ git clone https://github.com/hoysics/basic-im.git
 ### 使用到的框架
 
 - [kratos](https://go-kratos.dev/)
-
-### 版本控制
-
-该项目使用Git进行版本管理。您可以在repository参看当前可用版本。
 
 ### 作者
 
